@@ -1,3 +1,7 @@
+## 2.1.0
+
+* Updating Version
+
 ## 2.0.0
 
 * Migrated to AndroidX.
