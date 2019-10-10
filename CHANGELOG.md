@@ -1,3 +1,7 @@
+## 2.0.4
+
+* Android Gradle Bump
+
 ## 2.0.3
 
 * Finished migration to Android X.
